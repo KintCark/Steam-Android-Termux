@@ -1,5 +1,5 @@
 # Steam-Android-Termux
-You can download your steam games directly from your steam library with this!!!
+You can download your steam games directly from your steam library with this!!! best used with winlator or other windows emulators
 
 
 
